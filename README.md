@@ -21,12 +21,31 @@ Este repositorio es de utilidad para aprender y/o recordar algunos temarios teor
 
 ![grafo4](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/B-7-32-a.png?raw=true "grafo4")
 
+![grafo5](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/B-7-4.png?raw=true "grafo5")
+
 ## Respuesta escalón unitario
 ![grafo](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/B-7-32-b.png?raw=true "grafo")
 
 ![grafo2](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/B-7-33-d.png?raw=true "grafo2")
 
+![grafo3](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/B-7-33.b.png?raw=true "grafo3")
+
+![grafo4](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/B-7-34-c.png?raw=true "grafo4")
+
+![grafo5](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/control1.png?raw=true "grafo5")
+
+![grafo6](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/control2.png?raw=true "grafo6")
+
 ## Respuesta rampa unitaria
 ![grafo1](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/B-7-32-c.png?raw=true "grafo1")
 
 ![grafo2](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/B-7-33-e.png?raw=true "grafo2")
+
+![grafo3](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/B-7-34-d.png?raw=true "grafo3")
+
+## Lugar geometrico de las raices
+![grafo](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/control.png?raw=true "grafo")
+
+![grafo2](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/control4.png?raw=true "grafo2")
+
+![grafo3](https://github.com/ingelectronicadj/TeoriaDeControlConMATLAB/blob/master/todoEnImagenes/control6.png?raw=true "grafo3")
